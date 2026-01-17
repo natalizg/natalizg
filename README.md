@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [//link del portfolio](//link del portfolio)
-
-- 📄 Know about my experiences [//link de mi cv](//link de mi cv)
+- 📄 Know about my experiences [https://www.linkedin.com/in/natalizg/]
 
 - ⚡ Fun fact **Sushi is my favourite food**
 
