@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/natalizg/]
+- 📄 Know about my experiences https://www.linkedin.com/in/natalizg
 
 - ⚡ Fun fact **Sushi is my favourite food**
 
